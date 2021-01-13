@@ -1,4 +1,4 @@
 function Home(){
-    return <div>teste</div>
+    return <div>LJ Desenvolvimento</div>
 }
 export default Home;
